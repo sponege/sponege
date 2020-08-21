@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<marquee>Cool! I'll improve this more sometime.</marquee>
+
 <!--
 **Jord4563/Jord4563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
