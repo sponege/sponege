@@ -2,7 +2,7 @@
 
 This is cool!
 
-[Here's a link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiy7d2M56zrAhWKtJ4KHSl0BDgQ3ywwAHoECBcQBg&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdQw4w9WgXcQ&usg=AOvVaw0aHtehaphMhOCAkCydRLZU)
+[Here's a link](https://youtu.be/dQw4w9WgXcQ)
 
 <!--
 **Jord4563/Jord4563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
