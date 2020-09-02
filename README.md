@@ -3,8 +3,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jord4563&theme=radical&layout=compact&exclude_lang=java+r" />
 </p>
 
-[Here's a link](https://youtu.be/dQw4w9WgXcQ)
-
 <!--
 **Jord4563/Jord4563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
