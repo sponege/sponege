@@ -1,6 +1,4 @@
-<p align="center">
-  [![GitHub Game of Life](https://github4life.herokuapp.com/Jord4563.gif?z=6)](https://github4life.herokuapp.com/Jord4563)
-</p>
+[![GitHub Game of Life](https://github4life.herokuapp.com/Jord4563.gif?z=6)](https://github4life.herokuapp.com/Jord4563)
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jord4563" />
