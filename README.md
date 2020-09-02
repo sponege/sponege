@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github4life.herokuapp.com/Jord4563">
-    <img src="https://github4life.herokuapp.com/Jord4563.gif?z=6" alt="Github Game of Life">
+    <img width="300px" src="https://github4life.herokuapp.com/Jord4563.gif?z=6" alt="Github Game of Life">
   </a>
 </p>
 
